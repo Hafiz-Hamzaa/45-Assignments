@@ -1,12 +1,12 @@
 {
-  "name": "45-assignment",
+  "name": "Typescript and node.js 45 assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this typescript file we solve all 45 assignment of GIAIC ",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hamza Roll No:(00283484)",
   "license": "ISC"
 }
